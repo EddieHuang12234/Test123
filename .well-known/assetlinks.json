@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "pro360.com.consumer.staging.debu",
+               "sha256_cert_fingerprints": ["9a:bd:7f:94:73:bf:2c:73:4e:34:d5:8f:90:1e:7d:d8:64:14:14:7a:fe:1e:74:6e:f5:24:9a:60:e8:7d:ed:30"] }
+}]
